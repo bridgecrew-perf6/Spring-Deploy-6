@@ -19,9 +19,7 @@ public class HellowController {
     public String holaMundo(){
 
         System.out.println(message);
-        return "Que dise mi Ervi, /n " + " " +
-                " aquí escribiendote un mensaje nop y colgado en mi aplicacion" +
-                "poco a poco cabezón   ; ) ";
+        return "Tu eres el León del que todos hablan ? " +  " " +  " jajaj ";
     }
 
 }
