@@ -19,8 +19,9 @@ public class HellowController {
     public String holaMundo(){
 
         System.out.println(message);
-        return "Ricura pegate una duchita " + " " +
-                " que te voy a poner en pompeta   ; ) ";
+        return "Que dise mi Ervi, /n " + " " +
+                " aquí escribiendote un mensaje nop y colgado en mi aplicacion" +
+                "poco a poco cabezón   ; ) ";
     }
 
 }
