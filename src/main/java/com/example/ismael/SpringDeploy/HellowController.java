@@ -19,7 +19,9 @@ public class HellowController {
     public String holaMundo(){
 
         System.out.println(message);
-        return "Tu eres el León del que todos hablan ? " +  " " +  " jajaj ";
+        return "Hello World " +  " " +  " Goodbye World ";
     }
+
+
 
 }
