@@ -19,7 +19,7 @@ public class HellowController {
     public String holaMundo(){
 
         System.out.println(message);
-        return "Hello World " +  " " +  " Goodbye World ";
+        return "Hello World " +  " -- " +  " Goodbye World : )  ";
     }
 
 
