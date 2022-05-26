@@ -19,7 +19,8 @@ public class HellowController {
     public String holaMundo(){
 
         System.out.println(message);
-        return "Hola mundo !!! Adios mundo!!!";
+        return "Hola tito como estás" +
+                " pues me voy a ir duchando ";
     }
 
 }
