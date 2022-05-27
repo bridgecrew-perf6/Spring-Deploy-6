@@ -15,7 +15,7 @@ public class HellowController {
 
 
 
-    @GetMapping("/hola")
+    @GetMapping("/")
     public String holaMundo(){
 
         System.out.println(message);
